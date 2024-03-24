@@ -2,4 +2,4 @@
 
 🎨 Tmux statusline based on KopiMana palette
 
-![image](https://github.com/radvil/kopi-mana-tmux/assets/screenshot.png)
+![image](https://raw.githubusercontent.com/radvil/kopi-mana-tmux/main/assets/screenshot.png)
